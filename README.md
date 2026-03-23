@@ -1,5 +1,5 @@
 # packet-tracer-labs
-This is my folder containing networking labs, mostly done on Cisco Packet Tracer
+Welcome, everyone. This is my repo containing networking labs, mostly completed in Cisco Packet Tracer. Feel free to give feedback, guidance, and offer support. Thanks
 
 # Network Routing Lab (Static, OSPF, EIGRP, BGP)
 
