@@ -1,5 +1,5 @@
 # packet-tracer-labs
-This is my folder containing networking labs done on Cisco Packet Tracer
+This is my folder containing networking labs, mostly done on Cisco Packet Tracer
 
 # Network Routing Lab (Static, OSPF, EIGRP, BGP)
 
