@@ -21,7 +21,7 @@ LAN1 — R1 ===== R2 — LAN2
 - Static Routing  
 - OSPF (Open Shortest Path First)  
 - EIGRP (Enhanced Interior Gateway Routing Protocol)  
-- BGP (Border Gateway Protocol)  (In progress)
+- BGP (Border Gateway Protocol) 
 
 Each protocol was and will be configured separately on the same topology to compare behavior, scalability, and routing decisions.
 
